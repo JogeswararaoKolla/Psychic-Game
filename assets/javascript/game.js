@@ -63,8 +63,3 @@ document.onkeyup = function (event) {
     alert("Not a valid character entered!");
   }
 }
-
-
-
-
-
